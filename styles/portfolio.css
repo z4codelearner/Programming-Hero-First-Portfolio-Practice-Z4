@@ -155,4 +155,11 @@ main {
 }
 .skill-description {
     color: #757575;
+    margin: 0;
+}
+.rasel {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    gap: 24px;
 }
